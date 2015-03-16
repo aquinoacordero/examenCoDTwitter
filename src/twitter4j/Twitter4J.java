@@ -20,6 +20,7 @@ public class Twitter4J {
     /**
      * Metodo principal que llama al los metodos postear, timeline y buscartuit
      * @param args the command line arguments
+     * @throws twitter4j.TwitterException
      * 
      */
     
